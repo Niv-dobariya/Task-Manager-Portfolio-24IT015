@@ -6,9 +6,9 @@
 | :--- | :--- |
 | **Course Title** | Advanced Web Development Frameworks (AWDF) |
 | **Course Code** | ITUE301 |
-| **Student Name** | Sahil Makwana (or customize with your name) |
-| **Student ID** | `24IT045` (or customize with your ID) |
-| **Institution** | Faculty of Technology and Engineering |
+| **Student Name** | Niv Dobariya |
+| **Student ID** | `24IT015` |
+| **Institution** | CHARUSAT — Faculty of Technology and Engineering |
 | **Academic Year** | 2026 |
 
 ---
@@ -243,9 +243,10 @@ When creating or editing a task:
 
 ## Author & Academic Declaration
 
-- **Student Name:** Sahil Makwana
-- **Student ID:** `24IT045`
+- **Student Name:** Niv Dobariya
+- **Student ID:** `24IT015`
 - **Course:** Advanced Web Development Frameworks (AWDF / ITUE301)
-- **Institution:** Faculty of Technology & Engineering
+- **Institution:** CHARUSAT — Faculty of Technology & Engineering
+- **GitHub:** [@Niv-dobariya](https://github.com/Niv-dobariya)
 
 *Submitted as part of the academic laboratory coursework for AWDF.*

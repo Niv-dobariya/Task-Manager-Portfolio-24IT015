@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-api",
+  "name": "task-manager-api-24it015",
   "version": "1.0.0",
   "description": "Full-stack Task Manager API with JWT auth, caching, events, and AI integration for AWDF Practical Course",
   "main": "server.js",
@@ -19,7 +19,7 @@
     "ai",
     "awdf"
   ],
-  "author": "Student",
+  "author": "Niv Dobariya (24IT015)",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

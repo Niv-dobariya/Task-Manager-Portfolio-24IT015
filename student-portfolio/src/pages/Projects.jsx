@@ -13,7 +13,7 @@ function Projects() {
     try {
       // Practical 3: Consuming public REST API
       const response = await fetch(
-        "https://api.github.com/users/sahilmak1602/repos?per_page=30&sort=updated"
+        "https://api.github.com/users/Niv-dobariya/repos?per_page=30&sort=updated"
       );
 
       if (!response.ok) {

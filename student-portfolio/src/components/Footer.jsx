@@ -1,4 +1,4 @@
-function Footer({ studentName = "Student Developer", studentId = "24IT000" }) {
+function Footer({ studentName = "Niv Dobariya", studentId = "24IT015" }) {
   const currentYear = new Date().getFullYear();
 
   return (

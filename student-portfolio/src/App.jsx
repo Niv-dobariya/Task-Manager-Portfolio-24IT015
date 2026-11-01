@@ -11,10 +11,10 @@ const Contact = lazy(() => import("./pages/Contact"));
 const TaskManager = lazy(() => import("./pages/TaskManager"));
 const Login = lazy(() => import("./pages/Login"));
 
-// Student Profile Configuration — Easily customize with student details
+// Student Profile Configuration — Niv Dobariya (24IT015)
 const STUDENT_CONFIG = {
-  name: "Sahil Makwana",
-  studentId: "24IT045",
+  name: "Niv Dobariya",
+  studentId: "24IT015",
   course: "Advanced Web Development Frameworks (ITUE301)",
   institution: "CHARUSAT — Faculty of Technology and Engineering",
   semester: "B.Tech in Information Technology"

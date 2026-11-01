@@ -1,8 +1,8 @@
 function About({
-  name = "Student Developer",
-  studentId = "24IT000",
+  name = "Niv Dobariya",
+  studentId = "24IT015",
   course = "Advanced Web Development Frameworks (AWDF / ITUE301)",
-  institution = "Faculty of Technology & Engineering",
+  institution = "CHARUSAT — Faculty of Technology & Engineering",
   semester = "4th Semester B.Tech IT"
 }) {
   return (

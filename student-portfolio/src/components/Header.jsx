@@ -1,6 +1,6 @@
 import { Link, NavLink, useNavigate } from "react-router-dom";
 
-function Header({ studentName = "Student Developer", studentId = "24IT000" }) {
+function Header({ studentName = "Niv Dobariya", studentId = "24IT015" }) {
   const navigate = useNavigate();
   const token = sessionStorage.getItem("token");
   const userEmail = sessionStorage.getItem("user_email");
